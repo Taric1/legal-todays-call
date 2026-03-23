@@ -14,6 +14,4 @@ The public URL will be:
 
 Use that URL in App Store Connect, Google Play, and in the app (`AppConfig.privacyPolicyUrl`).
 
-## Before launch
-
-- Replace the placeholder contact email in `docs/index.html`.
+Contact email in the policy: **tariconeapps@gmail.com**.
